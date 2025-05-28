@@ -39,3 +39,4 @@ Output: 1
 
 Explanation:
 Here, string X is "aabbcc" and string Y is "abcd". We can see that in X ie., "aabbcc", we can align indices 0. 2 and 4 in Group 1. So. Group1 will be "abc".
+
